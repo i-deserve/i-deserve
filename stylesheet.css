@@ -1,0 +1,51 @@
+body {
+	background-image: url(images/metalbackground.jpg);
+}
+
+#welcome {
+	text-align: center;
+	font-family: museo sans;
+	font-size: large;
+	margin-top: 250px;
+}
+
+#welcome a {
+	text-decoration: none;
+	color: black;
+}
+
+#statement {
+	text-align: center;
+	font-family: museo sans;
+	font-size: large;
+	margin-top: 50px;
+}
+
+#statement a {
+	text-decoration: none;
+	color: black;
+}
+
+
+.invslink a {
+	margin-left: 550px;
+	font-family: monospace;
+	font-size: 30px;
+	margin-top: 25px;
+	text-decoration: none;
+	color: transparent;
+}
+
+.invslink a:hover {
+	color:black;
+	
+}
+
+
+#question1 {
+	text-align: center;
+	font-family: museo sans;
+	font-size: large;
+	margin-top: 200px;
+	
+}
