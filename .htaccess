@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile /github.com/i-deserve/i-deserve/blob/gh-pages/index.html
+AuthUserFile /github.com/i-deserve/i-deserve/blob/gh-pages/index.html/.htpasswd
 require valid-user
