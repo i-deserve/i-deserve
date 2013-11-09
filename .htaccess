@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile i-deserve/.htpasswd  
+AuthUserFile .htaccess 
 require valid-user
